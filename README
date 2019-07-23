@@ -4,4 +4,4 @@ https://xenabrowser.net/datapages/?cohort=GDC%20TCGA%20Breast%20Cancer%20(BRCA)&
 
 #pipeline
 homer
-`findMotifsGenome.pl homer_input hg38 436peaks_MotifOutput/`
+`findMotifsGenome.pl homer_input hg38 436peaks_MotifOutput/`.
